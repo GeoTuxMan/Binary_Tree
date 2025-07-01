@@ -1,2 +1,6 @@
 # Binary_Tree
-traversal in binary tree
+Different traversals in binary tree with C language: inorder,preorder,postorder
+
+Compile: gcc -Wall -o tree tree.c
+
+Run: ./tree
